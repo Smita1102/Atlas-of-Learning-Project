@@ -1,0 +1,316 @@
+id,question_text,question_type,question_id,set_id
+10001,Kinetic Energy,P,1,1
+10002,Magnetic Field,P,2,1
+10003,Potential Energy,P,3,1
+10004,Field,P,4,1
+10005,Energy,P,5,1
+10006,Field Line,P,6,1
+10007,Force,P,7,1
+10008,Electric Potential,P,8,1
+10009,Voltage,P,9,1
+10010,Gravity,P,10,1
+10011,Electric Field,P,11,1
+10012,Speed,P,12,1
+10013,Lorentz Force,P,13,1
+10014,Angular Velocity,P,14,1
+10015,Mass,P,15,1
+10016,Net Force,P,1,2
+10017,Charge,P,2,2
+10018,Angular Momentum,P,3,2
+10019,Electricity,P,4,2
+10020,Magnetism,P,5,2
+10021,Magnetic Dipole,P,6,2
+10022,Potential,P,7,2
+10023,Thermal Energy,P,8,2
+10024,Electrci Field,P,9,2
+10025,Wave Speed,P,10,2
+10026,Magnetic Field,P,11,2
+10027,Light,P,12,2
+10028,Electron,P,13,2
+10029,Mechanical Energy,P,14,2
+10030,Coulomb Law,P,15,2
+10031,Fermi Energy,P,1,3
+10032,Electric Charge,P,2,3
+10033,Energy Level,P,3,3
+10034,Charge Density,P,4,3
+10035,Angular Frequency,P,5,3
+10036,Internal Energy,P,6,3
+10037,Magnetic Energy,P,7,3
+10038,Angular Acceleration,P,8,3
+10039,Gaussian Surface,P,9,3
+10040,Energy Density,P,10,3
+10041,Surface Charge,P,11,3
+10042,Friction,P,12,3
+10043,Electric Dipole Moment,P,13,3
+10044,Sound,P,14,3
+10045,Acceleration,P,15,3
+10046,Gravitational Potential,P,1,4
+10047,Angular Velocity,P,2,4
+10048,Current Density,P,3,4
+10049,Velocity,P,4,4
+10050,Mass Number,P,5,4
+10051,Hooke Law,P,6,4
+10052,Charged Particle,P,7,4
+10053,Motion,P,8,4
+10054,Momentum,P,9,4
+10055,Quantum Number,P,10,4
+10056,Time Constant,P,11,4
+10057,Dipole Moment,P,12,4
+10058,Temperature,P,13,4
+10059,Invariant Mass,P,14,4
+10060,Phase (waves),P,15,4
+10061,Momentum,P,1,5
+10062,Wavelength,P,2,5
+10063,Wave Equation,P,3,5
+10064,Ideal Gas,P,4,5
+10065,Electromagnetic Radiation,P,5,5
+10066,Matter Wave,P,6,5
+10067,Valence And Conduction Bands,P,7,5
+10068,Density,P,8,5
+10069,Electric Current,P,9,5
+10070,Wavenumber,P,10,5
+10071,Photon Energy,P,11,5
+10072,Speed,P,12,5
+10073,Gauss Law,P,13,5
+10074,Electron Rest Mass,P,14,5
+10075,Alpha Particle,P,15,5
+10076,Binding Energy,P,1,6
+10077,Frequency,P,2,6
+10078,Angular Displacement,P,3,6
+10079,Number Density,P,4,6
+10080,Harmonic Motion,P,5,6
+10081,Wave Function,P,6,6
+10082,Displacement Current,P,7,6
+10083,Magnetic Flux,P,8,6
+10084,Energy Level,P,9,6
+10085,Charge Carrier,P,10,6
+10086,Capacitor,P,11,6
+10087,Pressure,P,12,6
+10088,Dipole,P,13,6
+10089,Maxima And Minima,P,14,6
+10090,Euclidean Vector,P,15,6
+10091,Molar Mass,P,1,7
+10092,Heat,P,2,7
+10093,Ray (optics),P,3,7
+10094,Friction,P,4,7
+10095,Magnetic Moment,P,5,7
+10096,Relative Velocity,P,6,7
+10097,Linearity,P,7,7
+10098,Electrical Energy,P,8,7
+10099,Circuit,P,9,7
+10100,Quantum Mechanics,P,10,7
+10101,Maxwelll Boltzmann Distribution,P,11,7
+10102,Diffraction,P,12,7
+10103,Resistance,P,13,7
+10104,Atomic Mass,P,14,7
+10105,Torque,P,15,7
+10106,Absolute_zero,C,1,1
+10107,Activation_energy,C,2,1
+10108,Adhesion,C,3,1
+10109,Adsorption,C,4,1
+10110,Aldehyde,C,5,1
+10111,Alkaline_earth_metal,C,6,1
+10112,Alkene,C,7,1
+10113,Alkyne,C,8,1
+10114,Analytical_chemistry,C,9,1
+10115,Aromaticity,C,10,1
+10116,Atomic_orbital,C,11,1
+10117,Avogadro_constant,C,12,1
+10118,Barometer,C,13,1
+10119,Biochemistry,C,14,1
+10120,Bohr_model,C,15,1
+10121,Boyle's_law,C,1,2
+10122,Bragg's_law,C,2,2
+10123,Brownian_motion,C,3,2
+10124,Carbocation,C,4,2
+10125,Catalysis,C,5,2
+10126,Cathode,C,6,2
+10127,Cathode_ray_tube,C,7,2
+10128,Chemical_nomenclature,C,8,2
+10129,Chemical_reaction,C,9,2
+10130,Chirality,C,10,2
+10131,Chromatography,C,11,2
+10132,Colloid,C,12,2
+10133,Combustion,C,13,2
+10134,Concentration,C,14,2
+10135,Condensation,C,15,2
+10136,Conjugated_system,C,1,3
+10137,Corrosion,C,2,3
+10138,Covalent_bond,C,3,3
+10139,Critical_point,C,4,3
+10140,Crystal,C,5,3
+10141,Crystallography,C,6,3
+10142,Density,C,7,3
+10143,Dipole,C,8,3
+10144,Dispersion,C,9,3
+10145,Dissolution,C,10,3
+10146,Ductility,C,11,3
+10147,Electrolyte,C,12,3
+10148,Electromagnetic_radiation,C,13,3
+10149,Electromagnetic_spectrum,C,14,3
+10150,Electromagnetism,C,15,3
+10151,Electromotive_force,C,1,4
+10152,Electron_configuration,C,2,4
+10153,Electron_shell,C,3,4
+10154,Electrophile,C,4,4
+10155,Enantiomer,C,5,4
+10156,Enthalpy,C,6,4
+10157,Enthalpy_of_fusion,C,7,4
+10158,Entropy,C,8,4
+10159,Enzyme,C,9,4
+10160,Equilibrium,C,10,4
+10161,Filtration,C,11,4
+10162,Rate_equation,C,12,4
+10163,Fractional_distillation,C,13,4
+10164,Frequency,C,14,4
+10165,Grignard_reaction,C,15,4
+10166,Halogen,C,1,5
+10167,Hadron,C,2,5
+10168,Heat,C,3,5
+10169,Hydrogen_bond,C,4,5
+10170,Hydrogenation,C,5,5
+10171,Inorganic_compound,C,6,5
+10172,Inorganic_chemistry,C,7,5
+10173,Intermolecular_force,C,8,5
+10174,Ion,C,9,5
+10175,Ionic_bonding,C,10,5
+10176,Ionization,C,11,5
+10177,Isomer,C,12,5
+10178,Isotope,C,13,5
+10179,Lanthanide,C,14,5
+10180,Conservation_of_energy,C,15,5
+10181,Ligand,C,1,6
+10182,Light,C,2,6
+10183,Ductility,C,3,6
+10184,Matter,C,4,6
+10185,Metalloid,C,5,6
+10186,Molar_concentration,C,6,6
+10187,Molar_mass,C,7,6
+10188,Molecule,C,8,6
+10189,Nucleon,C,9,6
+10190,Nucleophile,C,10,6
+10191,Noble_gas,C,11,6
+10192,Octet_rule,C,12,6
+10193,Rate_equation,C,13,6
+10194,Organic_chemistry,C,14,6
+10195,Osmotic_pressure,C,15,6
+10196,Redox,C,1,7
+10197,Ph,C,2,7
+10198,Phase_transition,C,3,7
+10199,Pi_bond,C,4,7
+10200,Periodic_table,C,5,7
+10201,Polarity,C,6,7
+10202,Potential_energy,C,7,7
+10203,Pressure,C,8,7
+10204,Photon,C,9,7
+10205,Protonation,C,10,7
+10206,Pyrolysis,C,11,7
+10207,Radiation,C,12,7
+10208,Radioactive_decay,C,13,7
+10209,Raoult's_law,C,14,7
+10210,Rate_equation,C,15,7
+10211,Abiotic_component,M,1,1
+10212,Abscission,M,2,1
+10213,Absorption_spectroscopy,M,3,1
+10214,Acclimatization,M,4,1
+10215,Acetyl-coa,M,5,1
+10216,Amide_linkage,M,6,1
+10217,Activation_energy,M,7,1
+10218,Active_site,M,8,1
+10219,Adipose_tissue,M,9,1
+10220,Allopatric_speciation,M,10,1
+10221,Amino_acid,M,11,1
+10222,Antibiotic,M,12,1
+10223,Apoptosis,M,13,1
+10224,Archaea,M,14,1
+10225,Selective_breeding,M,15,1
+10226,Asexual_reproduction,M,1,2
+10227,Archaea,M,2,2
+10228,Antibody,M,3,2
+10229,Barr_body,M,4,2
+10230,Binomial_nomenclature,M,5,2
+10231,Biocatalysis,M,6,2
+10232,Biological_engineering,M,7,2
+10233,Bioenergetics,M,8,2
+10234,Bioinformatics,M,9,2
+10235,Biome,M,10,2
+10236,Biomedical_engineering,M,11,2
+10237,Calvin_cycle,M,12,2
+10238,Carotene,M,13,2
+10239,Cryptoxanthin,M,14,2
+10240,Cell_cycle,M,15,2
+10241,Cell_theory,M,1,3
+10242,Cell_wall,M,2,3
+10243,Cellulose,M,3,3
+10244,Centriole,M,4,3
+10245,Chemotroph,M,5,3
+10246,Chlorophyll,M,6,3
+10247,Chloroplast,M,7,3
+10248,Rna,M,8,3
+10249,Dendrite,M,9,3
+10250,Depolarization,M,10,3
+10251,Desmosome,M,11,3
+10252,Dynein,M,12,3
+10253,Ecological_pyramid,M,13,3
+10254,Ecological_succession,M,14,3
+10255,Ecotype,M,15,3
+10256,Ectoderm,M,1,4
+10257,Ectotherm,M,2,4
+10258,Egg,M,3,4
+10259,Embryo,M,4,4
+10260,Endemism,M,5,4
+10261,Symbiogenesis,M,6,4
+10262,Epigenetics,M,7,4
+10263,Evolution,M,8,4
+10264,Extranuclear_inheritance,M,9,4
+10265,Fermentation,M,10,4
+10266,Fertilisation,M,11,4
+10267,Flagellum,M,12,4
+10268,G_protein,M,13,4
+10269,Gene_pool,M,14,4
+10270,Genetic_drift,M,15,4
+10271,Genotype,M,1,5
+10272,Heredity,M,2,5
+10273,Hermaphrodite,M,3,5
+10274,Heterosis,M,4,5
+10275,Heterotroph,M,5,5
+10276,Immune_response,M,6,5
+10277,Immunity,M,7,5
+10278,Infection,M,8,5
+10279,Insulin,M,9,5
+10280,Interferon,M,10,5
+10281,Internal_fertilization,M,11,5
+10282,Interphase,M,12,5
+10283,Larva,M,13,5
+10284,Mendelian_inheritance,M,14,5
+10285,White_blood_cell,M,15,5
+10286,Ligament,M,1,6
+10287,Macroevolution,M,2,6
+10288,Macromolecule,M,3,6
+10289,Nutrient,M,4,6
+10290,Mast_cell,M,5,6
+10291,Mating,M,6,6
+10292,Membrane_potential,M,7,6
+10293,Metabolism,M,8,6
+10294,Metaphase,M,9,6
+10295,Microevolution,M,10,6
+10296,Mitosis,M,11,6
+10297,Molecular_switch,M,12,6
+10298,Multicellular_organism,M,13,6
+10299,Neuroscience,M,14,6
+10300,Neuron,M,15,6
+10301,Nucleic_acid,M,1,7
+10302,Offspring,M,2,7
+10303,Organism,M,3,7
+10304,Parallel_evolution,M,4,7
+10305,Pathogen,M,5,7
+10306,Phenotype,M,6,7
+10307,Plant,M,7,7
+10308,Polyploidy,M,8,7
+10309,Population,M,9,7
+10310,Protein,M,10,7
+10311,Rna,M,11,7
+10312,Ground_tissue,M,12,7
+10313,Sexual_reproduction,M,13,7
+10314,Speciation,M,14,7
+10315,Sperm,M,15,7
