@@ -1,6 +1,6 @@
 READ ME
-
-ATLAS OF LEARNING MODEL(Term Base only )
+ 
+ATLAS OF LEARNING MODEL PART -I (Term Base only )
 
 TECHNOLOGIES USED:
 A] Operating System : Windows 10 
