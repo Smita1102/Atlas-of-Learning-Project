@@ -1,6 +1,6 @@
 READ ME
 
-ATLAS OF LEARNING MODEL
+ATLAS OF LEARNING MODEL(Term Base only )
 
 TECHNOLOGIES USED:
 A] Operating System : Windows 10 
@@ -29,7 +29,7 @@ You will find outputs extracted from the respective notebooks of the respective 
 Inside Term base Sqlite you will find choice.csv and question.csv which is used in Sqlite3 data base of Dep-Map Application
 
 
-
+The above extracted term base is used as input in the Dep-Map-Application for developing the Atlas of Learning Model.
 for Dep-Map-Application Code reference visit url :https://github.com/Smita1102/Dep_Map_Application 
 
 
