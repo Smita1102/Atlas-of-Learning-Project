@@ -1,4 +1,4 @@
-##ATLAS OF LEARNING MODEL PART -I (Term Base only )
+## ATLAS OF LEARNING MODEL PART -I (Term Base only )
 
 **Technology Used:**
 A] Operating System : Windows 10 
@@ -10,7 +10,7 @@ C] Software Used:
 2. Visual Studio Code Editor 
 3. SQLite3 Studio 
 
-###1. Python notebook:
+### 1. Python notebook:
 
 Jupyter notebook has been used for performing YAKE, Glossary extractor and wikipedia parsing
 **01_YAKE_Extractor :** YAKE is a Keyword Extraction Pipeline used for text pre-processing and  feature extraction.YAKE is used for extracting the keywords for Physics domain.It is applied on Halliday.The extracted words are stored in csv named PhysicsKeywords  
@@ -23,7 +23,7 @@ Jupyter notebook has been used for performing YAKE, Glossary extractor and wikip
 
 You will find outputs extracted from the respective notebooks of the respective domain inside Physics-Notebooks-Output, Chemistry-Notebooks-Output, Biology-Notebooks-Output.
 
-###2. Term Base SQLite 
+### 2. Term Base SQLite 
 Inside Term base Sqlite you will find choice.csv and question.csv which is used in Sqlite3 data base of Dep-Map Application
 
 
